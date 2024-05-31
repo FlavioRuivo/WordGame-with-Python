@@ -17,5 +17,5 @@
 - Space key, creates a new mixed word
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=aH39NrlIFrI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aH39NrlIFrI/0.jpg)](https://www.youtube.com/watch?v=aH39NrlIFrI)
 
