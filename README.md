@@ -16,6 +16,7 @@
 - F1 key, is help (provides half of the letters)
 - Space key, creates a new mixed word
 
+See the video here, in YouTube:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aH39NrlIFrI/0.jpg)](https://www.youtube.com/watch?v=aH39NrlIFrI)
 
